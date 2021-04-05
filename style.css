@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: #1d2127;
+    color: #ffffff;
+}
+.header{
+    width: 100%;
+    height: 60px;
+    background-color: rgba(255, 255, 255, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+}
+.header h2{
+    color: #ff0000;
+    margin-left: 20px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.container{
+    margin: 100px auto 0;
+    max-width: 1000px;
+}   
+
+.container #marvel-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container #marvel-row .item {
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.container #marvel-row .item img{
+    height: 300px;
+    width: 300px;
+}
