@@ -1,6 +1,5 @@
 # Recursos
 
-## Pen del curso
 * [Codepen Go Beyond](https://codepen.io/alberto-casuso/pen/LYxLXGV)
 * https://www.freecodecamp.org/
 * https://javascript.info/
