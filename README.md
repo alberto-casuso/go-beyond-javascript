@@ -45,10 +45,15 @@
 
 # ¿Posibilidades de aprender HTML/JS/CSS?
 
-![possibilities](https://firebasestorage.googleapis.com/v0/b/valentinders-card.appspot.com/o/posibilidades.001.jpeg?alt=media&token=f15bce59-804b-4b88-b2a2-47e2557fd0dc)
+Como en toda disciplina, hay áreas que son más sencillas de aprender y áreas que no lo son tanto. Empezar por algo sencillo nos hará ir cogiéndole el gusto a programar y según vayamos creando cosas más complejas se irá desarrollando un hambre por nuevos conocimientos. **Si eres una persona creativa, podrás añadir la programación a tu lista de hobbies.**
 
-UI de la descripción general del vehículo
-![possibilities](https://firebasestorage.googleapis.com/v0/b/valentinders-card.appspot.com/o/UI_dragon.jpg?alt=media&token=622246e1-7b29-475a-89fd-7aec0edef4cd)
+Que se ha hecho con HTML, CSS y Javascript
+
+![possibilities](https://i.ibb.co/Hrvfzy5/posibilidades-001.jpg)
+
+UI de la descripción general de la capsula dragon
+
+![possibilities](https://i.ibb.co/CnC1vW8/UI-dragon.jpg)
 
 Sistema de control de Capsula Dragon
 
@@ -57,3 +62,11 @@ Sistema de control de Capsula Dragon
 Control de Acoplamiento a la ISS (Estacion espacial internacional)
 
 ![possibilities](https://miro.medium.com/max/700/1*bW4UuYWj3Yjeoi6ljRyG-g.png)
+
+Domotica con Javascript
+![possibilities](https://www.bujarra.com/wp-content/uploads/2017/02/raspberry-home-automation-bujarra.jpg)
+
+Saber programar nos va a abrir infinitas posibilidades únicamente limitadas por nuestra imaginación y habilidad. Piensa en todas las aplicaciones que usas en tu smartphone, los programas que utilizas en el tu computadoras y los videojuegos con los que juegas habitualmente.
+O las casas inteligentes automatizadas con controles interactivos o comandos de voz
+
+**Saber que si necesitas algo en concreto y eres capaz de crearlo tu mismo es pura libertad**.
