@@ -1,3 +1,10 @@
+# ¿Qué veremos en Go Beyond?
+* [HTML5](https://www.w3schools.com/)
+* CSS3
+* JavaScript (ES6)
+* [React](https://reactjs.org/)
+* Git
+
 # Herramientas
 
 * [Visual Studio Code](https://code.visualstudio.com/)
