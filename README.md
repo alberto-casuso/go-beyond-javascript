@@ -33,6 +33,12 @@
 - [Dev Tools](https://developer.chrome.com/docs/devtools/)
 - [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/)
 
+# ¿Qué hay que tener instalado?
+* VSCode o Atom
+* NodeJS
+* Chrome o Firefox
+* Git
+
 # Recursos para aprender JavaScript
 
 - [5 Recursos para aprender JS](https://casuso.medium.com/5-recursos-para-aprender-javascript-844b001e4efa)
